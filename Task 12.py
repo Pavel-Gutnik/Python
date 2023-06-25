@@ -1,12 +1,4 @@
-
-# s = int(input("Сумма = "))
-# p = int(input("Произведение = "))
-# for i in range(s):
-#     for j in range(p):
-#         if s == i + j and p == i * j:
-#           print(i, j)
-
-
+# Задача 12: Отгадай числа.
 s = int(input("Сумма = "))
 p = int(input("Произведение = "))
 c = 0
